@@ -1,0 +1,88 @@
+/* Puritan font: kudos to Ben Weiner (http://openfontlibrary.fontly.org/people/benweiner) */
+/* TODO: make it work, as it didn't on my tests */
+@font-face {
+  font-family: "Puritan";
+  src: local('Puritan'), url(http://openfontlibrary.org/people/benweiner/Puritan_Regular.otf) format("opentype");
+  font-weight: 400;
+  font-style: italic;
+  font-variant: normal;
+  font-stretch: normal;
+}
+
+body {
+  font-family: 'Putiran',Ubuntu,sans-serif;
+  font-size: 0.9em;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Trebuchet MS",Helvetica,Jamrul,sans-serif;
+}
+
+#footer {
+  margin-top: 5px;
+}
+
+.video, .canvas, .svg {
+  margin: 0 auto;
+  width: 640px;
+}
+
+canvas, svg {
+  border: 1px dotted;
+}
+
+.content {
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+.slide {
+  border: none;
+}
+
+.slide p {
+  font-size: 2.5em;
+  margin-top: 5px;
+  margin-left: 1em;
+  margin-right: 1em;
+  text-align: right;
+}
+
+.slide p:first {
+  margin-top: 1em;
+}
+
+.slide .center, .slide .center p {
+  margin-left: 0;
+  margin-right: 0;
+}
+
+.slide ul {
+  list-style-type: circle;
+}
+
+.slide ol {
+  list-style-type: decimal;
+}
+
+.slide ul, .slide ol, {
+  list-style-position: inside;
+}
+.slide ul li, .slide ol li {
+  font-size: 32px;
+  text-align: left;
+}
+
+.bullets ol li {
+  padding: 25px;
+}
+
+h1 {
+  color: #881111;
+  font-size: 4em;
+  font-weight: bold;
+}
+
+h2 {
+  font-size: 2.5em;
+}

@@ -1,0 +1,33 @@
+{
+  "name": "HTML 5: O novo formato das aplicações",
+  "description": "This talk shows a bit of HTML 5 and some demos. It was part of the talks for Document Freedom day 2011, that happened on 2011-03-30 at Unicamp, Campinas, São Paulo, Brazil",
+  "sections": [
+    {"section":"title"},
+    {"section":"logo"},
+
+    {"section":"about_me"},
+    {"section":"umamao_intro"},
+
+    {"section":"intro"},
+
+    {"section":"semantics"},
+    {"section":"offline_storage"},
+    {"section":"device_access"},
+    {"section":"connectivity"},
+    {"section":"multimedia"},
+    {"section":"3d_graphics_effects"},
+    {"section":"performance_integration"},
+    {"section":"css3"},
+
+    {"section":"modernizr"},
+
+    {"section":"flash_silverlight"},
+    
+    {"section":"conclusion"},
+
+    {"section":"about_me"},
+    {"section":"umamao_hiring"},
+    {"section":"end"},
+    {"section":"title"}
+  ]
+}

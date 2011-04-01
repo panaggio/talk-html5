@@ -8,8 +8,8 @@ Document Freedom Day 2011.
 If you want to run this presentation, you should first get it from Github
 and then run the ShowOff server:
 
-    $ git clone git://github.com/panaggio/talk:html5.git
-    $ cd talk:html5
+    $ git clone git://github.com/panaggio/talk-html5.git
+    $ cd talk-html5
     $ showoff serve
 
 Then you should be able to go to
@@ -56,11 +56,11 @@ You may want to:
     3. click "Message"
 * send a bug on github's issue tracker:
     1. signup and login to github
-    2. go to the [issue tracker](http://github.com/panaggio/talk:html5/issues)
+    2. go to the [issue tracker](http://github.com/panaggio/talk-html5/issues)
     3. click "Create Issue"
 * make the changes yourself:
     1. signup and login to github
-    2. go to the [talk's page](http://github.com/panaggio/talk:html5)
+    2. go to the [talk's page](http://github.com/panaggio/talk-html5)
     3. fork this repo: click "Fork"
     4. make your changes
     5. send a pull request.

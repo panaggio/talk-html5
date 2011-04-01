@@ -8,8 +8,8 @@ HTML 5 no _Document Freedom Day_ de 2011 da Unicamp.
 Se você quiser rodar essa apresentação, você deve antes de mais nada
 baixá-la do Github e então executar o ShowOff:
 
-    $ git clone git://github.com/panaggio/talk:html5.git
-    $ cd talk:html5
+    $ git clone git://github.com/panaggio/talk-html5.git
+    $ cd talk-html5
     $ showoff serve
 
 Depois disso você deve conseguir abrir a URL
@@ -59,11 +59,11 @@ Você pode:
     3. clique em _"Message"_
 * enviar um bug pelo _issue tracker_ do github:
     1. entre e logue no github
-    2. vá para o [issue tracker](http://github.com/panaggio/talk:html5/issues)
+    2. vá para o [issue tracker](http://github.com/panaggio/talk-html5/issues)
     3. clique em _"Create Issue"_
 * fazer modificações você mesmo:
     1. entre e logue no github
-    2. vá para a [página da palestra](http://github.com/panaggio/talk:html5)
+    2. vá para a [página da palestra](http://github.com/panaggio/talk-html5)
     3. _fork_ o repositório: clique em _"Fork"_
     4. faça as alterações
     5. me envie um _pull request_.

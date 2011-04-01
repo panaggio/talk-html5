@@ -90,7 +90,7 @@
 # Cookies: problemas #
 
 * _overhead_ nas requisições
-* trafego de dados não encriptados
+* tráfego de dados não encriptados
 * tamanho máximo de 4KB
 
 !SLIDE bullets

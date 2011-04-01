@@ -7,11 +7,11 @@
 !SLIDE
 
 # Motivação #
-## Vídeo e audio se tornaram cidadãos de primeira ordem na web ##
+## Vídeo e áudio se tornaram cidadãos de primeira ordem na web ##
 
 !SLIDE bullets incremental
 
-# Suporte a audio e vídeo #
+# Suporte a áudio e vídeo #
 
 * QuickTime
 * RealPlayer

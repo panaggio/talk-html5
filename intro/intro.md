@@ -95,7 +95,7 @@
       <body>
         <h1>HTML5: é fácil começar</h1>
         <p>Definido o
-        <code>&lt;!DOCTYPE html&gt;</code>,
+        <code><!DOCTYPE html></code>,
         você está pronto para utilizar tudo
         o que HTML5 pode oferecer</p>
         <canvas>...</canvas>

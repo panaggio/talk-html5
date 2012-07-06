@@ -1,6 +1,6 @@
 {
-  "name": "HTML 5: O novo formato das aplicações",
-  "description": "This talk shows a bit of HTML 5 and some demos. It was part of the talks for Document Freedom day 2011, that happened on 2011-03-30 at Unicamp, Campinas, São Paulo, Brazil",
+  "name": "HTML 5: Todas as faces do novo padrão",
+  "description": "This talk shows a bit of HTML 5 and some demos. It was part of the talks for Document Freedom day 2011, that happened on 2011-03-30 at Unicamp, Campinas, São Paulo, Brazil, and also for The Developers Conference 2012, that happened on 2012-06-06 at Universidade Anhembi-Morumbi, São Paulo, São Paulo, Brazil (and maybe elsewhere, I don't remerber).",
   "sections": [
     {"section":"title"},
     {"section":"logo"},

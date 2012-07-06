@@ -4,6 +4,7 @@
   "sections": [
     {"section":"title"},
     {"section":"logo"},
+    {"section":"tdc2012"},
 
     {"section":"about_me"},
     {"section":"umamao_intro"},

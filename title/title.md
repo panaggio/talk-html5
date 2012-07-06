@@ -2,7 +2,7 @@
 
 # HTML 5 #
 
-## O novo formato das aplicações ##
+## Todas as faces do novo padrão ##
 
 Ricardo Panaggio
 

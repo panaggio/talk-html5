@@ -1,7 +1,11 @@
-# Document Freedom Day 2011 / Unicamp - Palestra sobre HTML 5
+# HTML 5: Todas as faces do novo padrão
 
-Esse é o código fonte dos slides utilizados por mim na minha palestra sobre
-HTML 5 no _Document Freedom Day_ de 2011 da Unicamp.
+Esse é o código fonte dos slides utilizados por mim nas minhas palestras sobre
+HTML 5 em diversos eventos:
+  - 2011/03/29: _Document Freedom Day_ de 2011 da Unicamp,
+  - 2011/04/04: [Seminários de Software Livre (1s2011)](http://www.lsd.ic.unicamp.br/mc039wiki/index.php/1s2011)
+  - 2012/07/06: [_The Developers Conference_ São Paulo de 2012](http://www.thedevelopersconference.com.br/tdc/2012/index.html#saopaulo)
+  - e outros que eu esqueci :(
 
 ## Uso #
 

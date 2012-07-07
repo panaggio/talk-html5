@@ -1,7 +1,12 @@
-# Document Freedom Day 2011 / Unicamp - HTML 5 Talk
+# HTML 5: All facets of the new standard
 
-This is the source code of the slides I used for my HTML 5 talk at Unicamp's
-Document Freedom Day 2011.
+This is the source code of the slides I used for my HTML 5 talks in several
+events:
+
+  - 2011/03/29: Unicamp's Document Freedom Day 2011
+  - 2011/04/04: [1s2011 Free Software Seminars](http://www.lsd.ic.unicamp.br/mc039wiki/index.php/1s2011)
+  - 2012/07/06: [The Developers Conference 2012 (São Paulo)](http://www.thedevelopersconference.com.br/tdc/2012/index.html#saopaulo)
+  - and others I can't remember anymore :(
 
 ## Usage #
 

@@ -40,9 +40,9 @@
 # `geolocation` #
 
     @@@javascript
-    function get_location() {
+    function getLocation(geoCallback) {
       navigator.geolocation.getCurrentPosition(
-        geo_callback
+        geoCallback
       );
     }
 
@@ -50,7 +50,7 @@
 !SLIDE
 
     @@@javascript
-    function geo_callback(position) {
+    function geoCallback(position) {
       var coords = position.coords;
 
       var latitude = coords.latitude;

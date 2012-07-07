@@ -34,17 +34,29 @@
 !SLIDE
 
     @@@html
-    <svg id="svg" height="400" width="640"
-         xmlns="http://www.w3.org/2000/svg">
-      <circle id="circle" cx="150" cy="150"
-              r="250" fill="#880000" />
+    <svg id='svg'
+         height='400'
+         width='640'
+         xmlns='http://www.w3.org/2000/svg'>
+      <circle id='circle'
+              cx='150'
+              cy='150'
+              r='250'
+              fill='#880000'/>
     </svg>
 
 !SLIDE
 
-<div class="svg">
-  <svg id="svg" height="400" width="640" xmlns="http://www.w3.org/2000/svg">
-  <circle id="circle" cx="150" cy="150" r="250" fill="#880000" />
+<div class='svg'>
+  <svg id='svg'
+       height='400'
+       width='640'
+       xmlns='http://www.w3.org/2000/svg'>
+    <circle id='circle'
+            cx='150'
+            cy='150'
+            r='250'
+            fill='#880000'/>
   </svg>
 </div>
 
@@ -71,29 +83,29 @@
 !SLIDE
 
     @@@html
-    <canvas width="640" height="480"></canvas>
+    <canvas width='640' height='480'></canvas>
 
 !SLIDE
 
 <div class='canvas'>
-  <canvas width="640" height="480"></canvas>
+  <canvas width='640' height='480'></canvas>
 </div>
 
 !SLIDE
 
     @@@javascript
-    var canvas = document.getElementById("canvas");
-    var context = b_canvas.getContext("2d");
-    b_context.fillRect(50, 100, 200, 100);
+    var canvas = document.getElementById('canvas');
+    var context = canvas.getContext('2d');
+    context.fillRect(50, 100, 200, 100);
 
 !SLIDE
 
 <div class='canvas'>
-  <canvas id="first" width="640" height="480"></canvas>
+  <canvas id='first' width='640' height='480'></canvas>
 </div>
 <script>
-  var canvas = document.getElementById("first");
-  var context = canvas.getContext("2d");
+  var canvas = document.getElementById('first');
+  var context = canvas.getContext('2d');
   context.fillRect(50, 100, 200, 100);
 </script>
 
@@ -103,24 +115,24 @@
     var gradient = context.createRadialGradient(
       300, 250, 500, 100, 600, 150
     );
-    gradient.addColorStop(0, "#FF3333");
-    gradient.addColorStop(1, "#333333");
+    gradient.addColorStop(0, '#FF3333');
+    gradient.addColorStop(1, '#333333');
     context.fillStyle = gradient;
     context.fillRect(25, 25, 590, 430);
 
 !SLIDE
 
 <div class='canvas'>
-  <canvas id="second" width="640" height="480"></canvas>
+  <canvas id='second' width='640' height='480'></canvas>
 </div>
 <script>
-  var canvas = document.getElementById("second");
-  var context = canvas.getContext("2d");
+  var canvas = document.getElementById('second');
+  var context = canvas.getContext('2d');
   var gradient = context.createRadialGradient(
     300, 250, 500, 100, 600, 150
   );
-  gradient.addColorStop(0, "#FF3333");
-  gradient.addColorStop(1, "#333333");
+  gradient.addColorStop(0, '#FF3333');
+  gradient.addColorStop(1, '#333333');
   context.fillStyle = gradient;
   context.fillRect(25, 25, 590, 430);
 </script>

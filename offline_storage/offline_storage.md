@@ -59,7 +59,7 @@
 
     @@@html
     <!DOCTYPE html>
-    <html manifest="/html5.manifest">
+    <html manifest='/html5.manifest'>
       <head>...</head>
       <body>...</body>
     </html>
@@ -139,16 +139,16 @@
 !SLIDE
 
     @@@javascript
-    var foo = localStorage.getItem("bar");
+    var foo = localStorage.getItem('bar');
     // ...
-    localStorage.setItem("bar", foo);
+    localStorage.setItem('bar', foo);
 
 !SLIDE
 
     @@@javascript
-    var foo = localStorage["bar"];
+    var foo = localStorage['bar'];
     // ...
-    localStorage["bar"] = foo;
+    localStorage['bar'] = foo;
 
 
 
@@ -180,15 +180,16 @@
 !SLIDE
 
     @@@html
-    <input type="file" id="input"
-           onchange="handleFiles(this.files)">
+    <input type='file'
+           id='input'
+           onchange='handleFiles(this.files)'>
 
 !SLIDE
 
     @@@javascript
-    var elem = document.getElementById("input");
+    var elem = document.getElementById('input');
     elem.addEventListener(
-      "change", handleFiles, false
+      'change', handleFiles, false
     );
 
     function handleFiles() {

@@ -24,8 +24,8 @@
 
     @@@html
     <!DOCTYPE html
-     PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
-     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+       PUBLIC '-//W3C//DTD XHTML 1.0 Strict//EN'
+       'http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd'>
 
 !SLIDE bullets
 
@@ -47,8 +47,8 @@
 
     @@@html
     <!DOCTYPE html
-     PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
-     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+       PUBLIC '-//W3C//DTD XHTML 1.0 Strict//EN'
+       'http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd'>
 
 !SLIDE
 
@@ -64,19 +64,19 @@
 !SLIDE
 
     @@@html
-    <html xmlns="http://www.w3.org/1999/xhtml"
-          lang="pt"
-          xml:lang="pt">
+    <html xmlns='http://www.w3.org/1999/xhtml'
+          lang='pt'
+          xml:lang='pt'>
 
 !SLIDE bullets
 
-* `xmlns="http://www.w3.org/1999/xhtml"`: padrão
-* `lang="pt"` == `xml:lang="pt"`
+* `xmlns='http://www.w3.org/1999/xhtml'`: padrão
+* `lang='pt'` == `xml:lang='pt'`
 
 !SLIDE
 
     @@@html
-    <html lang="pt">
+    <html lang='pt'>
 
 
 
@@ -91,15 +91,15 @@
 # `<meta>` #
 
     @@@html
-    <meta http-equiv="Content-Type"
-          content="text/html; charset=utf-8">
+    <meta http-equiv='Content-Type'
+          content='text/html; charset=utf-8'>
 
 !SLIDE
 
 # `<meta>` #
 
     @@@html
-    <meta charset="utf-8" />
+    <meta charset='utf-8'/>
 
 
 
@@ -162,9 +162,9 @@
 # Exemplo: `article` & `time` #
 
     @@@html
-    <div class="talk">
+    <div class='talk'>
       <h2>Data da palestra</h2>
-      <p class="talk-date">
+      <p class='talk-date'>
         06 de Julho de 2012
       </p>
     </div>
@@ -176,7 +176,7 @@
     @@@html
     <article>
       <h2>Data da palestra</h2>
-      <time datetime="2012-07-06">
+      <time datetime='2012-07-06'>
         06 de Julho de 2012
       </time>
     </article>
@@ -188,7 +188,7 @@
     @@@html
     <article>
       <h2>Data da palestra</h2>
-      <time datetime="2012-07-06">
+      <time datetime='2012-07-06'>
         Hoje
       </time>
     </article>

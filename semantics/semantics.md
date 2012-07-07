@@ -152,8 +152,10 @@
 
 # Novos elementos #
 
-`<section>`, `<nav>`, `<article>`, `<aside>`, `<hgroup>`,
-`<header>`, `<footer>`, `<time>`, `<mark>`
+    @@@html
+    <section>, <nav>, <article>,
+    <aside>, <hgroup>, <header>,
+    <footer>, <time>, <mark>
 
 !SLIDE
 

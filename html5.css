@@ -90,3 +90,40 @@ h1 {
 h2 {
   font-size: 2.5em;
 }
+
+.slide .meleva-logo {
+  font-family: "Trebuchet MS",Helvetica,Jamrul,sans-serif;
+  text-decoration: none;
+}
+
+.slide .meleva-logo.small {
+  font-size: 1.5em;
+}
+
+.slide .meleva-logo.big {
+  font-size: 4em;
+}
+
+.slide .meleva-logo:before {
+  vertical-align: middle;
+}
+
+.slide .meleva-logo.title:before {
+  content: url(images/logo_meleva_small.png);
+}
+
+.slide .meleva-logo.small:before {
+  content: url(images/logo_meleva_small.png);
+}
+
+.slide .meleva-logo.big:before {
+  content: url(images/logo_meleva_big.png);
+}
+
+.slide .meleva-logo .meleva-me {
+  color: rgb(145, 126, 85);
+}
+
+.slide .meleva-logo .meleva-leva {
+  color: rgb(61, 49, 55);
+}

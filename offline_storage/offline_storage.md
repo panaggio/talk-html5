@@ -52,7 +52,7 @@
     CACHE MANIFEST
     /html5.css
     /html5.js
-    /umamao.jpg
+    /meleva.jpg
     ...
 
 !SLIDE

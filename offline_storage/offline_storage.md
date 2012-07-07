@@ -97,7 +97,7 @@
 
 # Exemplos de alternativas #
 
-* IE userData
+* IE `userData`
 * Flash (AMASS, ...)
 * Gears
 * dojox.storage

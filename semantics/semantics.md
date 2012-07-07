@@ -163,7 +163,7 @@
     <div class="talk">
       <h2>Data da palestra</h2>
       <p class="talk-date">
-        30 de Março de 2011
+        06 de Julho de 2012
       </p>
     </div>
 
@@ -174,8 +174,8 @@
     @@@html
     <article>
       <h2>Data da palestra</h2>
-      <time datetime="2011-03-30">
-        30 de Março de 2011
+      <time datetime="2012-07-06">
+        06 de Julho de 2012
       </time>
     </article>
 
@@ -186,7 +186,7 @@
     @@@html
     <article>
       <h2>Data da palestra</h2>
-      <time datetime="2011-03-30">
+      <time datetime="2012-07-06">
         Hoje
       </time>
     </article>
